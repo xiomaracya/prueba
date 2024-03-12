@@ -46,4 +46,6 @@ typedef void *(*elem_from_string_fn)(const char *str);
 /* generic function type to process an element */
 typedef void (*process_elem_fn)(const void *element);
 
+/*frase de prueba para ver si se mergea*/
+
 #endif
